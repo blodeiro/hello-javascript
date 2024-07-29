@@ -11,8 +11,8 @@
 
 ## Próxima clase
 
-### Miércoles 17 de julio a las 20:00h (España) en directo desde [Twitch](https://twitch.tv/mouredev)
-#### Puedes crear un recordatorio y consultar el horario en tu país desde [Discord](https://discord.gg/mouredev?event=1260687219744706580)
+### Miércoles 31 de julio a las 20:00h (España) en directo desde [Twitch](https://twitch.tv/mouredev)
+#### Puedes crear un recordatorio y consultar el horario en tu país desde [Discord](https://discord.gg/mouredev?event=1265768501356794037)
 
 ## Clases en vídeo
 
@@ -20,8 +20,28 @@
 
 Código:
 
-* [00-helloworld.js](./Basic/00-helloworld.js)
-* [01-variables.js](./Basic/01-variables.js)
+* [00 - Hola Mundo](./Basic/00-helloworld.js)
+* [01 - Variables](./Basic/01-variables.js)
+
+#### [CLASE 2 | 17/07/2024 | Tipos de datos, operadores y strings](https://www.twitch.tv/videos/2200149072?t=00h08m02s)
+
+Código:
+
+* [02 - Tipos de datos](./Basic/02-datatypes.js)
+* [03 - Ejercicios: Primeros pasos](./Basic/03-beginner-exercises.js)
+* [04 - Operadores](./Basic/04-operators.js)
+* [05 - Ejercicios: Operadores](./Basic/05-operators-exercises.js)
+* [06 - Strings](./Basic/06-strings.js)
+* [07 - Ejercicios: Strings](./Basic/07-strings-exercises.js)
+
+#### [CLASE 3 | 24/07/2024 | Condicionales, arrays y sets](https://www.twitch.tv/videos/2206228701?t=00h16m02s)
+
+Código:
+
+* [08 - Condicionales](./Basic/08-conditionals.js)
+* [09 - Ejercicios: Condicionales](./Basic/09-conditionals-exercises.js)
+* [10 - Array](./Basic/10-array.js)
+* [11 - Set](./Basic/11-set.js)
 
 ## Enlaces de interés
 
